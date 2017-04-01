@@ -1,0 +1,1 @@
+var ngAria = angular.module("NgAria", []);
